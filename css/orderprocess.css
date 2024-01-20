@@ -1,0 +1,22 @@
+h1 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+}
+
+h2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:2px;
+}
+.result {
+    margin-left:20px;
+}
+.error{
+    color: red;
+    font-style:italic;
+}
+
+
